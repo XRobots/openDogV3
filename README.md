@@ -14,6 +14,10 @@ Menu options on the Dog/LCD are as follows:
 2) move legs outwards so they just clear the stand stirrups by 1-2 mm
 3) move legs so both shouler and knee joints are at 45'
 4) turn up motor position, velocity and integrator gains
-5) inverse kinematics demo mode for 6 axis of translation and rotation
-6) walking mode
+5) inverse kinematics demo mode for 6 axis of translation and rotation (also makes the legs slightly straighter)
+6) walking mode (same default leg position as 5)
 10) put the feet back into position so they rest on the stand stirrups
+
+The remote now has a 'reverse' switch which reverses four axis of the remote so the dog walks backwards. This happens on the remote rather than in the dog's kinematics. There is also a motor enable switch which must be on for the dog to work.
+
+Foot mould CAD is included for silicone rubber feet. I used a 25A Shore hardness Platinum cure silicone with pigment. Note that the Carbon Fibre foot tube is glued into the lower leg and foot insert to stop it rotating.
