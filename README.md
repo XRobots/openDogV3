@@ -21,3 +21,5 @@ Menu options on the Dog/LCD are as follows:
 The remote now has a 'reverse' switch which reverses four axis of the remote so the dog walks backwards. This happens on the remote rather than in the dog's kinematics. There is also a motor enable switch which must be on for the dog to work.
 
 Foot mould CAD is included for silicone rubber feet. I used a 25A Shore hardness Platinum cure silicone with pigment. Note that the Carbon Fibre foot tube is glued into the lower leg and foot insert to stop it rotating.
+
+The parts are all printed in PLA. The larger parts are around 15% infill with 3 perimeters at 0.3mm layer height. The smaller parts such as the Cycloidal drive internals are 4 perimeters and up to 30-40% infill.
