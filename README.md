@@ -3,7 +3,7 @@ CAD and Code for openDog V3: https://www.youtube.com/playlist?list=PLpwJoq86vov8
 
 I've included a Bill of Materials this time, BOM.ods, which is probably complete, I'll be adding to it if I remember anything else.
 
-I used the AS5047 encoders in absolute position mode in this build. Check out the ODrive documentation for more info: https://docs.odriverobotics.com/encoders You will have to configure the encoder parameters and then run the offset calibration as per the ODrive docmentation. Default offsets are set in the code in the variable declaration section which will need calibrating to move the joints to the default positons in mode 3 below.
+I used the AS5047 encoders in absolute position mode in this build. Check out the ODrive documentation for more info: https://docs.odriverobotics.com/v/latest/encoders.html You will have to configure the encoder parameters and then run the offset calibration as per the ODrive docmentation. Default offsets are set in the code in the variable declaration section which will need calibrating to move the joints to the default positons in mode 3 below.
 
 ODrive vel_limit and vel_limit_tolerance are set to math.inf within the ODrive tool which stops the motors disarming under certain circumstanses. (You will have to do 'import math' first within the ODrive tool).
 
